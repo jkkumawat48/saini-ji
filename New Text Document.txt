@@ -1,0 +1,4 @@
+var a="manish"
+console.log(a)
+
+function add
